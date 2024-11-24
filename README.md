@@ -12,7 +12,7 @@
     <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/317750_linkedin_icon.png?raw=true' width='50px'></a>
     <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/HackerRank_Icon-1000px.png?raw=true' width='50px'></a>
     <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/images/blob/master/unnamed.png?raw=true' width='50px'></a>
-    <a href="#" style="text-decoration: none; color: white;">daily.dev</a>
+    <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/images/blob/master/unnamed.png?raw=true' width='50px'></a>
   </div>
 </footer>
 
