@@ -10,7 +10,7 @@
     <a href="https://github.com/Shwetha-75" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='50px'></a>
     <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/images.jpg?raw=true' width='50px'></a>
     <a href="#" style="text-decoration: none; color: white;">Linkedin</a>
-    <a href="#" style="text-decoration: none; color: white;">Google-mail</a>
+    <a href="#" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/HackerRank_Icon-1000px.png?raw=true' width='50px'></a>
     <a href="#" style="text-decoration: none; color: white;">dev.community</a>
     <a href="#" style="text-decoration: none; color: white;">daily.dev</a>
   </div>
