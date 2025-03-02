@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shwetha K</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetha-75&label=Profile%20views&color=0e75b6&style=flat" alt="shwetha-75" /> </p>
 
@@ -53,15 +53,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetha-75&" alt="shwetha-75" /></p>
 
 
-<img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'>
-<footer style="background-color: black; padding: 70px;margin-top:20px" marginTop='30px'>
-  <div style="display: flex; justify-content: space-between; padding: 0 50px; color: white; font-size: 18px;">
-    <a href="https://github.com/Shwetha-75" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' height='40px' width='50px'></a>
-    <a href="https://leetcode.com/u/SHWETHA_K/" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/images.jpg?raw=true' height='40px' width='50px'></a>
-    <a href="https://www.linkedin.com/in/shwetha-k-/" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/317750_linkedin_icon.png?raw=true' width='50px' height='40px'></a>
-    <a href="https://www.hackerrank.com/profile/shwetha_675" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/HackerRank_Icon-1000px.png?raw=true' width='50px' height='40px'></a>
-    <a href="https://app.daily.dev/shwethak" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/unnamed.png?raw=true' height='40px' width='50px'></a>
-    <a href="https://dev.to/shwetha75" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/4519024_dev_icon.png?raw=true'  height='40px' width='50px'></a>
-  </div>
-</footer>
+
+
 
