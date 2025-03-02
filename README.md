@@ -2,9 +2,9 @@
 
  
    <p> 
-      <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px">
+      <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px">   <span><h1> Full Stack Developer </h1> </span>
     </p>
-     <span><h1> Full Stack Developer </h1> </span>
+   
 
 
   
