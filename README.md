@@ -1,13 +1,14 @@
-<div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " width='80%'>
+<div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " width='100px' height="100px">
 
    <p><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' height='40px' width='50px'>
-    <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'>
     </p>
 
 
   <h1> Full Stack Developer </h1>
 
 </div>
+
+<img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'>
 <footer style="background-color: black; padding: 70px;margin-top:20px" marginTop='30px'>
   <div style="display: flex; justify-content: space-between; padding: 0 50px; color: white; font-size: 18px;">
     <a href="https://github.com/Shwetha-75" style="text-decoration: none; color: white;"><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' height='40px' width='50px'></a>
