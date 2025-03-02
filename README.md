@@ -1,4 +1,4 @@
-<div style="display:flex;flex-direction:columns; justify-content:center; align-items:center;">
+<div style="display:flex;flex-direction:columns; justify-content:center; align-items:center; width:80%;">
   <span>
    <p><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' height='40px' width='50px'>
     <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'>
