@@ -1,15 +1,6 @@
-<div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " >
-
- 
-   <p  style="display:flex"> <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px"><span><h1> Full Stack Developer </h1> </span></p>
-   
 
 
-  
-
-</div>
-
-<h1 align="center">Hi 👋, I'm Shwetha K</h1>
+<h1 align="center">Hi 👋, I'm Shwetha K  <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px"></h1>
 <h3 align="center">Full Stack Developer <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetha-75&label=Profile%20views&color=0e75b6&style=flat" alt="shwetha-75" /> </p>
