@@ -1,9 +1,9 @@
-<div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " width='80%' left='50px'>
-<!--   <span>
+<div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " width='80%'>
+
    <p><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' height='40px' width='50px'>
     <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'>
     </p>
-  </span> -->
+
 
   <h1> Full Stack Developer </h1>
 
