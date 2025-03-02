@@ -1,10 +1,13 @@
 <div style="display:flex;flex-direction:column; justify-content:center; align-items:center; width:80%; border:2px solid blue; " >
 
-   <p><img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px">
+ 
+   <p> 
+      <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='100px' height="100px">
     </p>
+     <span><h1> Full Stack Developer </h1> </span>
 
 
-  <h1> Full Stack Developer </h1>
+  
 
 </div>
 
