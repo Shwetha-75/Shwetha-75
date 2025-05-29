@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning **Node.js || Redux || Supabase || Firestore**
 
 - 🔭 I’m currently working on [Meme Generator](https://github.com/Shwetha-75/Meme-Generator)
+  
+- 🔭 checkout the solutions for leetcode &  hacker Rank problems Link 👉 [Coding](https://github.com/Shwetha-75/CodingProblems-leetcode_-_HackerRank)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shwetha--swart.vercel.app/](https://portfolio-shwetha--swart.vercel.app/)
 
