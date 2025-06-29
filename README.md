@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Shwetha K  <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/github.gif?raw=true' width='60px' height="50px"></h1>
-<h3 align="center">Full Stack Developer <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'></h3>
+<h3 align="center">Computer Science Engineer <img src='https://github.com/Shwetha-75/Shwetha-75/blob/main/coding.gif?raw=true' width='50px'></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetha-75&label=Profile%20views&color=0e75b6&style=flat" alt="shwetha-75" /> </p>
 
